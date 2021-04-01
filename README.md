@@ -1,5 +1,5 @@
 # Keep
-A React front end that uses a local JSON database to save important todos and reminders.
+A React front end similar to Google Keep that uses a local JSON database to save important todos and reminders.
 
 ## How to install the code:
 
